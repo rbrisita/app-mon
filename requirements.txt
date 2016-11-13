@@ -1,0 +1,4 @@
+Bash Environment - shell
+ImageMagick - command line tool to manipulate images
+PhantomJS - headless webkit command line tool
+JQ - JSON parsing command line tool
